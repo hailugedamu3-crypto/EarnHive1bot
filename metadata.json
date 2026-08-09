@@ -1,0 +1,6 @@
+{
+  "name": "EarnHive",
+  "description": "EarnHive Telegram Mini App - Refer, complete missions, earn ETB, and manage withdrawals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
